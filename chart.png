@@ -1,3 +1,0 @@
-pip install seaborn matplotlib pandas numpy
-python chart.py
-# This writes chart.png in the same folder
